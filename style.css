@@ -62,6 +62,7 @@ html{
 }
 /* menu btn styling*/
 .menu-btn{
+	display:none;
 	z-index:999;
 	color:#fff;
 	font-size: 23px;
